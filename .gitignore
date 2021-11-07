@@ -1,0 +1,6 @@
+*.DS_Store
+*.idea/
+*.ipynb_checkpoints
+*.pdf
+*.docx
+*.csv
