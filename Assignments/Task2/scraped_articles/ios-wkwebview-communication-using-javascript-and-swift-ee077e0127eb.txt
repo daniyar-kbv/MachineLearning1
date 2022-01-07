@@ -1,6 +1,0 @@
-url: https://medium.com/john-lewis-software-engineering/ios-wkwebview-communication-using-javascript-and-swift-ee077e0127eb
-
-It’s common for native iOS apps to include web components, particularly to display web content. However, communicating with a web view is not always straightforward as it requires a “bridge” between Swift and Javascript.
-
-Recently I worked on a problem where a user journey started in a web view but, due to a hardware integration, most of the logic and processing had to be…
-
